@@ -1,0 +1,19 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno (¡CRÍTICO: No subir la API Key!)
+.env
+
+# Archivos de compilación de TypeScript
+dist/
+build/
+
+# Logs y archivos del sistema operativo
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales de editores
+.vscode/
+.idea/

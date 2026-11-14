@@ -1,0 +1,7 @@
+PORT=4000
+DB_USER=postgres
+DB_PASSWORD=adminpassword
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=hardwareguru_users
+JWT_SECRET=super_secreto_hardwareguru_2026
